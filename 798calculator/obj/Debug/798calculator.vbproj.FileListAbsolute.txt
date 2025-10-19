@@ -1,0 +1,24 @@
+C:\Users\shin4\OneDrive\Desktop\sir jep\798calculator\798calculator\bin\Debug\798calculator.exe.config
+C:\Users\shin4\OneDrive\Desktop\sir jep\798calculator\798calculator\bin\Debug\798calculator.exe
+C:\Users\shin4\OneDrive\Desktop\sir jep\798calculator\798calculator\bin\Debug\798calculator.pdb
+C:\Users\shin4\OneDrive\Desktop\sir jep\798calculator\798calculator\bin\Debug\798calculator.xml
+C:\Users\shin4\OneDrive\Desktop\sir jep\798calculator\798calculator\obj\Debug\798calculator.vbproj.AssemblyReference.cache
+C:\Users\shin4\OneDrive\Desktop\sir jep\798calculator\798calculator\obj\Debug\_798calculator.Form1.resources
+C:\Users\shin4\OneDrive\Desktop\sir jep\798calculator\798calculator\obj\Debug\_798calculator.Resources.resources
+C:\Users\shin4\OneDrive\Desktop\sir jep\798calculator\798calculator\obj\Debug\798calculator.vbproj.GenerateResource.cache
+C:\Users\shin4\OneDrive\Desktop\sir jep\798calculator\798calculator\obj\Debug\798calculator.vbproj.CoreCompileInputs.cache
+C:\Users\shin4\OneDrive\Desktop\sir jep\798calculator\798calculator\obj\Debug\798calculator.exe
+C:\Users\shin4\OneDrive\Desktop\sir jep\798calculator\798calculator\obj\Debug\798calculator.xml
+C:\Users\shin4\OneDrive\Desktop\sir jep\798calculator\798calculator\obj\Debug\798calculator.pdb
+D:\798calculator\798calculator\bin\Debug\798calculator.exe.config
+D:\798calculator\798calculator\bin\Debug\798calculator.exe
+D:\798calculator\798calculator\bin\Debug\798calculator.pdb
+D:\798calculator\798calculator\bin\Debug\798calculator.xml
+D:\798calculator\798calculator\obj\Debug\798calculator.vbproj.AssemblyReference.cache
+D:\798calculator\798calculator\obj\Debug\_798calculator.Form1.resources
+D:\798calculator\798calculator\obj\Debug\_798calculator.Resources.resources
+D:\798calculator\798calculator\obj\Debug\798calculator.vbproj.GenerateResource.cache
+D:\798calculator\798calculator\obj\Debug\798calculator.vbproj.CoreCompileInputs.cache
+D:\798calculator\798calculator\obj\Debug\798calculator.exe
+D:\798calculator\798calculator\obj\Debug\798calculator.xml
+D:\798calculator\798calculator\obj\Debug\798calculator.pdb
